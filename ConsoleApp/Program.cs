@@ -14,13 +14,6 @@ namespace ConsoleApp
         {
             string txt = File.ReadAllText("Azimov_Sucker-Bait.txt");
 
-            
-            
-
-            //foreach (var pair in uniq_words_count.OrderBy(pair => pair.Value))
-            //{
-            //    Console.WriteLine("{0} - {1}", pair.Key, pair.Value);
-            //}
         }
     }
 }
